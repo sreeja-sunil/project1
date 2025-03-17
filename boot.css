@@ -1,0 +1,166 @@
+
+
+
+
+.sec1{
+    background-color: skyblue;
+}
+.indochino{
+    margin-bottom: 1px;
+    font-size: 25px;
+}
+.first-para{
+    margin-left: 20px;
+    font-size: 10px;
+}
+h2#sec-cond{
+    text-align: left;
+    color: white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+
+}
+.sec-cond-para{
+    color: white;
+    text-align: left;
+    gap: 15px;
+    margin-bottom: 50px;
+}
+.hr1{
+    color: white;
+    
+
+}
+.anchor{
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    
+    
+}
+.inbox3{
+    text-align: center;
+    text-align: left;
+    padding: 30px;
+}
+h4#third-cond{
+    text-align: center;
+}
+.third-cond-para{
+    text-align: center;
+}
+.inbox4{
+    text-align: center;
+    padding: 30px;
+}
+.anchor2{
+    text-decoration: none;
+    border:1px solid skyblue ;
+    padding: 10px;
+}
+.sec3{
+    background-color: skyblue;
+}
+
+.icon1{
+    border: 1px solid white;
+    border-radius:50% ;
+    padding: 3px;
+}
+.icon2{
+    border:1px solid white ;
+    border-radius:50% ;
+    padding: 3px;
+}
+.icon3{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 3px;
+
+}
+h6#sub-head{
+   padding: 10px;
+}
+
+.inbox5{
+    color: white;
+    text-align: justify;
+    text-align: center;
+    font-size: 13px;
+    padding: 20px;
+}
+.inbox6{
+    color: white;
+    text-align: justify;
+    text-align: center;
+    font-size: 13px;
+    padding: 20px;
+
+}
+.inbox7{
+    color: white;
+    text-align: justify;
+    text-align: center;
+    font-size: 13px;
+    padding: 20px;
+
+}
+.sec4{
+    background-color: gray;
+}
+.inbox8{
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.anchor3{
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 50px;
+
+}
+.img9{
+    width: 100%;
+}
+.inbox9{
+    text-align: center;
+    padding: 30px;
+}
+
+    
+.sec7{
+    background-color: darkslateblue;
+    margin-top: 20px;
+}
+.inbox10{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.anchor4{
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    
+
+}
+.inbox11{
+    text-align: center;
+}
+.pp{
+    font-size: 10px;
+}
+.inbox{
+    margin-top: 20px;
+}
+.pp2{
+    color: blue;
+    font-size: 10px;
+}
+    
+
+
+    
